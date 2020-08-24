@@ -10,8 +10,8 @@
 
 - 呈現如下
 
-![作品](/10_basic_html/images/1598251625032.jpg)
-![作品](/10_basic_html/images/1598251644548.jpg)
-![作品](/10_basic_html/images/1598251664329.jpg)
+![作品](images/1598251625032.jpg)
+![作品](images/1598251644548.jpg)
+![作品](images/1598251664329.jpg)
 
 - [作品原始碼](/10_basic_html/homework/training10.html)

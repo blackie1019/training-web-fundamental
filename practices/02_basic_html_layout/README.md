@@ -10,6 +10,6 @@
 
 - 呈現如下
 
-![作品](/02_basic_html/images/1598188155130.jpg)
+![作品](images/1598188155130.jpg)
 
 - [作品原始碼](/02_basic_html/homework/training2.html)

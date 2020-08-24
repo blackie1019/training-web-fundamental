@@ -8,7 +8,7 @@
 
 - 呈現參考：
 
-  ![preview.png](./images/preview.png)
+  ![preview.png](images/preview.png)
 
 - 練習原始碼：
 

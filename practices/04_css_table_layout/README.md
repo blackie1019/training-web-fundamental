@@ -12,6 +12,6 @@
 
 - 呈現如下
 
-![作品](/04_basic_html/images/1598238447971.jpg)
+![作品](images/1598238447971.jpg)
 
 - [作品原始碼](/04_basic_html/homework/training4.html)

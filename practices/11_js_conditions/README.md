@@ -10,9 +10,9 @@
 
 - 呈現如下
 
-![作品](./images/1598261970384.jpg)
-![作品](./images/1598262030947.jpg)
-![作品](./images/1598262049881.jpg)
-![作品](./images/1598262058928.jpg)
+![作品](images/1598261970384.jpg)
+![作品](images/1598262030947.jpg)
+![作品](images/1598262049881.jpg)
+![作品](images/1598262058928.jpg)
 
 - [作品原始碼](/11_basic_html/homework/training11.html)
