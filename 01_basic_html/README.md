@@ -10,6 +10,6 @@
 
   ![preview.png](./images/preview.png)
 
-- 作品原始碼：
+- 練習原始碼：
 
   [原始碼](./homework/)
