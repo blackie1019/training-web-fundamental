@@ -29,17 +29,17 @@ Basic concept for HTML, CSS and JavaScript for beginner
 
 ## 課程章節與自我練習實際操作
 
-1. [基礎 HTML](./01_basic_html/)
-2. [基礎 CSS](./02_basic_html_layout/)
-3. [CSS 選擇器](./02_basic_html_layout)
-4. [CSS 表格樣式](./03_css_selector)
-5. [網頁排版](./04_css_table_layout)
+1. [基礎 HTML](./practices/01_basic_html/)
+2. [基礎 CSS](./practices/02_basic_html_layout/)
+3. [CSS 選擇器](./practices/03_css_selector)
+4. [CSS 表格樣式](./practices/04_css_table_layout)
+5. 網頁排版
 6. 回應式(RWD, Responsive Web Design)排版設計
 7. CSS3 Flexbox 排版基礎
 8. CSS3 Flexbox 回應式設計 RWD 排版
-9. [JavaScript - 簡介](./09_js_intro)
-10. [JavaScript - 變數與運算子](./10_js_variable_and_operators)
-11. [JavaScript - 流程控制 : 判斷式](./11_js_conditions)
+9. [JavaScript - 簡介](./practices/09_js_intro)
+10. [JavaScript - 變數與運算子](./practices/10_js_variable_and_operators)
+11. [JavaScript - 流程控制 : 判斷式](./practices/11_js_conditions)
 12. JavaScript - 流程控制 : 迴圈
 13. JavaScript - 函式
 14. HTML DOM
