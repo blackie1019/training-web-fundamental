@@ -29,10 +29,22 @@ Basic concept for HTML, CSS and JavaScript for beginner
 
 ## 課程章節與自我練習實際操作
 
-1. [基礎 HTML](./practices/01_basic_html/)
-2. [基礎 CSS](./practices/02_basic_html_layout/)
+1. [HTML 介紹](./practices/01_basic_html/)
+
+    基本 HTML 知識學習與基本語言結構
+
+2. [基礎 HTML 結構](./practices/02_basic_html_layout/)
+
+    基本 HTML 的三大元素: `head`, `body` 與 `footer` 介紹
+
 3. [CSS 選擇器](./practices/03_css_selector)
-4. [CSS 表格樣式](./practices/04_css_table_layout)
+
+    學習如何使用 CSS 樣式改變網頁呈現
+
+4. [CSS 表格樣式](./practices/04_css_table_layout)  
+
+    學習如何使用 CSS 的 table 進行網頁基礎排版
+
 5. 網頁排版
 6. 回應式(RWD, Responsive Web Design)排版設計
 7. CSS3 Flexbox 排版基礎
